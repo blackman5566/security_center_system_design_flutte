@@ -23,6 +23,14 @@ Flutter 版本消除了這道障礙——用跨平台框架實作相同的 Domai
 
 UI 層換了。系統設計沒有換。
 
+<p align="center">
+  <img 
+    src="https://github.com/blackman5566/security_center_system_design_flutte/blob/main/image.png" 
+    alt="SecurityCenter-SystemDesign Demo" 
+    width="640"
+  />
+</p>
+
 ---
 
 ## 為什麼做這個？
