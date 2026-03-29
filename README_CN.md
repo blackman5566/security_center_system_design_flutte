@@ -1,8 +1,5 @@
 <div align="left">
   <a href="README.md"><img alt="English" src="https://img.shields.io/badge/Documentation-English-blue"></a>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.32-54C5F8?logo=flutter">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-3.8-0175C2?logo=dart">
-  <img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-2.x-00BCD4">
 </div>
 
 # Security Center－模組化安全子系統（Flutter / Riverpod）
