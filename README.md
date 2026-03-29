@@ -1,8 +1,5 @@
 <div align="left">
   <a href="README_CN.md"><img alt="中文" src="https://img.shields.io/badge/Documentation-中文-blue"></a>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.32-54C5F8?logo=flutter">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-3.8-0175C2?logo=dart">
-  <img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-2.x-00BCD4">
 </div>
 
 # Security Center – Modular Security Subsystem (Flutter / Riverpod)
@@ -22,6 +19,14 @@ When presenting system design in interviews, showing a SwiftUI app to non-iOS en
 This port removes that barrier — by implementing the **exact same domain architecture** in a cross-platform framework, making the design visible to anyone.
 
 The UI layer is swapped. The system design is not.
+
+<p align="center">
+  <img 
+    src="https://github.com/blackman5566/security_center_system_design_flutte/blob/main/image.png" 
+    alt="SecurityCenter-SystemDesign Demo" 
+    width="640"
+  />
+</p>
 
 ---
 
